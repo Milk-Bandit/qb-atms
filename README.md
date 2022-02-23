@@ -1,3 +1,16 @@
+## A UI redesign of QB Core ATMs
+
+    This is just a UI redesign of the QB-Core ATMs script:
+   - [qb-atms](https://github.com/qbcore-framework/qb-atms)
+    
+    This has been done by myself copying the style choices from my qb-banking redesign
+    adapted from Scorpion.#5940 and implementing them into qb-atms so they match.
+    
+    I will not offer any support with this as I am a very busy person plus I am still
+    early learning with .css and .js. Use this at your own risk. Currently I have had zero
+    issues while running on Artifact: 5352, Game Build: 2372 and running latest build of
+    qb-core framework as of 22/02/2022.
+
 # qb-atms
 Useable ATMs for QB-Core
 
